@@ -36,7 +36,7 @@ author:
       url: "https://orcid.org/"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/"
+      url: "https://scholar.google.com/citations?hl=en&user=0Jlwta8AAAAJ"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/"
